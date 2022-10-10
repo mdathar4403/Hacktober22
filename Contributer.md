@@ -85,4 +85,7 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
-
+NAME :  MD ATHAR <br>
+GITHUB : https://github.com/mdathar4403 <br>
+INSTITUTE/COMPANY : IIT VARANASI, (BHU) <br>
+DOMAIN/LANGUGAE : C/C++ <br>
